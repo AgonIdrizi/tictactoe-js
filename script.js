@@ -22,6 +22,8 @@ const GameboardFactory = (name1, name2) => {
 
   let currentPlayer = player1;
   let gameOver = false;
+
+  
   const getBoard = () => {return array};
 
  
